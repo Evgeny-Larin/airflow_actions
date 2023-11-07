@@ -2,9 +2,9 @@ name: GitHub Actions Demo # название пайплайна
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:                       # будет срабатывать на пушах и пул реквестах
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 jobs:                       # job'ы
   init:
     runs-on: ubuntu-latest  # запускается на последней версии убунту
