@@ -22,7 +22,7 @@ jobs:
         with:
           key: ${{ secrets.DEPLOY_KEY }}
           name: id_rsa
-          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          # known_hosts: ${{ secrets.KNOWN_HOSTS }}
           config: |
             Host 85.209.9.101
               HostName 85.209.9.101
