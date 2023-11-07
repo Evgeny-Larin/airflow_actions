@@ -18,4 +18,5 @@ Nginx вещает с localhost:8080
 
 Оригинальный compose файл: [ссылка](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)  
 
-Гайд по добавлению дашбордов: [ссылка](https://www.youtube.com/watch?v=xyeR_uFhnD4&list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh&index=7) и [ссылка](https://www.youtube.com/watch?v=CZS4fAfWcR4&list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh&index=7)
+Гайд по добавлению дашбордов: [ссылка](https://www.youtube.com/watch?v=xyeR_uFhnD4&list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh&index=7) и [ссылка](https://www.youtube.com/watch?v=CZS4fAfWcR4&list=PLzKRcZrsJN_xcKKyKn18K7sWu5TTtdywh&index=7) 
+Гайд по добавлению CI/CD: [ссылка](https://startdatajourney.com/ru/course/apache-airflow-2/modules/22/74/10)
