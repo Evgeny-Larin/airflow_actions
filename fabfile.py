@@ -3,9 +3,7 @@ import os
 from fabric import Connection, task
 
 home = os.path.expanduser('~')
-dags_path = os.path.join(home, 'airflow', 'dags')
-repo_path = os.path.join(home, 'repositories', 'dataeng_dags')
-env_path = os.path.join(home, 'venvs', '.airflow', 'bin', 'activate')
+repo_path = os.path.join(home, 'airflow_gitub_actions')
 
 @task
 def deploy(context):
