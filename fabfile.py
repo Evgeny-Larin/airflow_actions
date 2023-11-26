@@ -2,7 +2,7 @@ import os
 
 from fabric import Connection, task
 
-repo_path = os.path.join('/root/airflow_gitub_actions')
+repo_path = os.path.join('/root/airflow_actions')
 
 @task
 def deploy(context):
