@@ -1,4 +1,4 @@
-# Продовый образ airflow
+# Образ airflow
 Запускается в папке с docker-compose командой:  
 `docker compose up`  
 
